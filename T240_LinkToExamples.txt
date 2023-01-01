@@ -1,0 +1,5 @@
+The initial customization project and the initial source code of the extension library for this course:
+https://github.com/Acumatica/Help-and-Training-Examples/tree/2022R2/Customization/T230
+
+The reference implementation of the customization described in this course:
+https://github.com/Acumatica/Help-and-Training-Examples/tree/2022R2/Customization/T240
